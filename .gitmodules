@@ -1,0 +1,12 @@
+[submodule "zabs-web"]
+	path = zabs-web
+	url = git@github.com:soonann/zabs-web.git
+[submodule "zabs-mobile"]
+	path = zabs-mobile
+	url = git@github.com:soonann/zabs-mobile.git
+[submodule "zabs-cardreader"]
+	path = zabs-cardreader
+	url = git@github.com:soonann/zabs-cardreader.git
+[submodule "zabs-server"]
+	path = zabs-server
+	url = git@github.com:soonann/zabs-server.git
